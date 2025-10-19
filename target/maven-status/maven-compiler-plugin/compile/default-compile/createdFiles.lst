@@ -1,0 +1,4 @@
+module-info.class
+Model\Mercurio.class
+Controller\controlador.class
+View\App.class
